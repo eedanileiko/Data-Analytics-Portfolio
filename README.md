@@ -9,7 +9,7 @@
 
 ## Содержание репозитория
 
-###  `Analytics_pandas.ipynb`
+###  [`Analytics_pandas`](Analytics_pandas.ipynb)
 
 * Работа с данными с использованием **pandas**
 * Очистка данных, преобразования, агрегации
@@ -18,7 +18,7 @@
 
 ---
 
-###  `Hypothesis_testing.ipynb`
+###  `Hypothesis_testing.ipynb`(Hypothesis_testing_.ipynb)
 
 * Проверка статистических гипотез
 * Использование t-test, non-parametric тестов
@@ -26,7 +26,7 @@
 * Интерпретация результатов и выводы
 ---
 
-### `Linear_regressions_EDA_gradient.ipynb`
+### [`Linear_regressions_EDA_gradient`](Linear_regressions_EDA_gradients.ipynb)
 
 * Линейная регрессия: теория и практика
 * Реализация градиентного спуска
@@ -44,7 +44,7 @@
 
 ---
 
-### `Features_prediction_ml_project_Danileiko`
+### [`Features_prediction_ml_project_Danileiko`](Features_prediction_ml_projectdanileyko.ipynb)
 
 * Небольшой ML-проект основанные на выгрузке данных из известной игры Dota
 * Работа с признаками и поиск лучшей модели
