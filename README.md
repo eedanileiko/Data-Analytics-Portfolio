@@ -44,7 +44,7 @@
 
 ---
 
-### `Features_prediction_ml_projectda...`
+### `Features_prediction_ml_project_Danileiko`
 
 * Небольшой ML-проект основанные на выгрузке данных из известной игры Dota
 * Работа с признаками и поиск лучшей модели
