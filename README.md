@@ -18,7 +18,7 @@
 
 ---
 
-###  `Hypothesis_testing.ipynb`(Hypothesis_testing_.ipynb)
+###  [`Hypothesis_testing.ipynb`](Hypothesis_testing_.ipynb)
 
 * Проверка статистических гипотез
 * Использование t-test, non-parametric тестов
