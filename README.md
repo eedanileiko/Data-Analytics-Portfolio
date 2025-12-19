@@ -35,7 +35,7 @@
 
 ---
 
-### `Trees_Danileyko.ipynb`
+### `Trees_Danileyko.ipynb`(Trees_Danileyko.ipynb)
 
 * Деревья решений
 * Обучение и интерпретация модели
